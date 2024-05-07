@@ -1,4 +1,16 @@
 {% extends "base.html" %}
 {% block content %}
-  <p class="section__description">This is extract file</p>
+  {%if error is defined%}
+    <div class="alert alert-danger alert-dismissible fade show mt-3" role="alert">
+      <strong>Error!</strong>{{error}}
+      <button type="button" class="btn-close" data-bs-dismiss="alert" >Close</button>
+    </div>
+  {%endif%}
+  <form class="form-inline" method="POST" action='extract'>
+    <div class="form-group mb-2">
+      <label for="staticEmail2" class="sr-only">Product Id</label>
+      <input type="text"class="form-control-plaintext" name="product_id" id="product_id" value="" required placeholder="Enter your product code ">
+    </div>
+    <button type="submit" class="btn btn-primary mb-2">Confirm</button>
+  </form>
 {% endblock %}
