@@ -1,0 +1,427 @@
+[
+    {
+        "opinion_id": "17400708",
+        "author": "p...s",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Mega kompresorek. Mega w sensie, że jest super, bo sam jest malutki. Bardzo cichy jak na kompresor tłokowy. Do malowania aerografem i innych drobnych prac majsterkowych idealny. Do garażu już nie!!!!!!",
+            "en": "Mega compressors. Mega in the sense that it's great because it's tiny. Very quiet for a piston compressor. Perfect for airbrush painting and other small DIY works. No more going to the garage!!!!!"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-04-14 09:41:31",
+        "purchase_date": "2023-04-11 10:32:55"
+    },
+    {
+        "opinion_id": "16862010",
+        "author": "j...n",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "produkt spełnia swoje zadanie, faktycznie jest bardzo cichy, ze względu na małą pojemność dość często się załącza ale zupełnie to  nie przeszkadza w pracy",
+            "en": "the product does its job, it is actually very quiet, due to its small capacity it turns on quite often but it does not interfere with work at all"
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "łatwość używania"
+            ],
+            "en": [
+                "functionality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2022-12-10 11:39:21",
+        "purchase_date": "2022-11-29 11:40:41"
+    },
+    {
+        "opinion_id": "16749899",
+        "author": "K...y",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Kupił ten kompresor dla swojego warsztatu. Bardzo zadowolony. Kiedy kompresor działa to dziecko śpi. Polecam",
+            "en": "He bought this compressor for his workshop. Very satisfied. When the compressor works, the baby sleeps. I recommend"
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "łatwość używania",
+                "wytrzymałość"
+            ],
+            "en": [
+                "functionality",
+                "ease of use",
+                "resilience"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-11-15 20:14:57",
+        "purchase_date": "2022-11-03 18:10:19"
+    },
+    {
+        "opinion_id": "17305743",
+        "author": "m...9",
+        "recommendation": null,
+        "score": 0.7,
+        "content": {
+            "pl": "Kupiłem kilkanaście kompresorów - jest Ok ale - kilka mam do reklamacji - brak kontroli jakości .",
+            "en": "I bought a dozen compressors - it's OK, but - I have a few complaints - lack of quality control."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-03-22 21:45:10",
+        "purchase_date": "2023-03-03 10:11:09"
+    },
+    {
+        "opinion_id": "16655831",
+        "author": "t...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wykonanie super, produkt jeszcze nie uzytkowany. Przydalaby sie dokladniejsza instrukcja.",
+            "en": "Great workmanship, product not yet used. More detailed instructions would be useful."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-10-20 12:46:41",
+        "purchase_date": "2022-10-17 11:36:19"
+    },
+    {
+        "opinion_id": "17141621",
+        "author": "i...7",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Zgodne z opisem, solidne spawy zbiornika, mała i bardzo cicha. OK. Polecam",
+            "en": "Consistent with the description, solid tank welds, small and very quiet. APPROX. I recommend"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-02-14 10:49:59",
+        "purchase_date": "2023-01-06 10:22:13"
+    },
+    {
+        "opinion_id": "15708128",
+        "author": "s...o",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Kupiłem go do aerografu i jestem bardzo zadowolony, wydajny cichutki, polecam.",
+            "en": "I bought it for airbrushing and I am very satisfied, efficient, quiet, I recommend it."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 2,
+        "publish_date": "2022-02-16 10:32:08",
+        "purchase_date": "2022-02-08 06:10:34"
+    },
+    {
+        "opinion_id": "16224848",
+        "author": "e...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Towar za taką cenę naprawdę dobrej jakości",
+            "en": "The product is of really good quality for this price"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-06-18 22:40:23",
+        "purchase_date": "2022-05-19 07:58:57"
+    },
+    {
+        "opinion_id": "16304844",
+        "author": "K...n",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Next level miniaturę paintingu.",
+            "en": "Next level miniature painting."
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "łatwość używania",
+                "wytrzymałość"
+            ],
+            "en": [
+                "functionality",
+                "ease of use",
+                "resilience"
+            ]
+        },
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2022-07-11 20:42:57",
+        "purchase_date": "2022-07-03 22:06:40"
+    },
+    {
+        "opinion_id": "17011143",
+        "author": "v...d",
+        "recommendation": false,
+        "score": 0.1,
+        "content": {
+            "pl": "Receiver has a hole, all air escapes in a minutes",
+            "en": "Receiver has a hole, all air escapes in a minutes"
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność"
+            ],
+            "en": [
+                "functionality"
+            ]
+        },
+        "cons": {
+            "pl": [
+                "łatwość używania",
+                "wytrzymałość"
+            ],
+            "en": [
+                "ease of use",
+                "resilience"
+            ]
+        },
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-01-12 22:42:13",
+        "purchase_date": "2023-01-01 23:40:26"
+    },
+    {
+        "opinion_id": "15975349",
+        "author": "b...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "W miarę dobry produkt.",
+            "en": "Fairly good product."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2022-04-19 09:24:51",
+        "purchase_date": "2022-04-06 21:17:46"
+    },
+    {
+        "opinion_id": "16205366",
+        "author": "w...2",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Naprawdę dobry sprzet",
+            "en": "Really good equipment"
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "łatwość używania",
+                "wytrzymałość"
+            ],
+            "en": [
+                "functionality",
+                "ease of use",
+                "resilience"
+            ]
+        },
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 0,
+        "publish_date": "2022-06-13 21:15:36",
+        "purchase_date": "2022-06-02 08:42:46"
+    },
+    {
+        "opinion_id": "15734462",
+        "author": "j...i",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Bardzo cichy mały kompresorek.",
+            "en": "Very quiet little compressor."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2022-02-22 07:38:11",
+        "purchase_date": "2022-02-16 10:13:50"
+    },
+    {
+        "opinion_id": "14995399",
+        "author": "k...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super",
+            "en": "cool"
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "łatwość używania",
+                "wytrzymałość"
+            ],
+            "en": [
+                "functionality",
+                "ease of use",
+                "resilience"
+            ]
+        },
+        "cons": null,
+        "helpful": 2,
+        "unhelpful": 1,
+        "publish_date": "2021-09-24 16:51:39",
+        "purchase_date": "2021-09-22 16:54:30"
+    },
+    {
+        "opinion_id": "14736207",
+        "author": "m...2",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Bardzo dobry sprzęt",
+            "en": "Very good equipment"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2021-07-19 05:25:32",
+        "purchase_date": "2021-06-29 19:41:08"
+    },
+    {
+        "opinion_id": "17121619",
+        "author": "p...e",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Perfekt",
+            "en": "Perfect"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-02-08 21:45:23",
+        "purchase_date": "2023-01-27 11:36:36"
+    },
+    {
+        "opinion_id": "16715381",
+        "author": "e...k",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "polecam",
+            "en": "I recommend"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-11-05 10:57:13",
+        "purchase_date": "2022-10-18 21:22:27"
+    },
+    {
+        "opinion_id": "16128815",
+        "author": "h...n",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "super",
+            "en": "cool"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-05-25 18:22:25",
+        "purchase_date": "2022-05-19 08:53:05"
+    },
+    {
+        "opinion_id": "16898476",
+        "author": "K...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "ok.",
+            "en": "Approx."
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "łatwość używania",
+                "wytrzymałość"
+            ],
+            "en": [
+                "functionality",
+                "ease of use",
+                "resilience"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-12-18 17:10:49",
+        "purchase_date": "2022-11-17 18:29:10"
+    },
+    {
+        "opinion_id": "15879925",
+        "author": "t...i",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "ok",
+            "en": "Approx"
+        },
+        "pros": {
+            "pl": [
+                "funkcjonalność",
+                "łatwość używania"
+            ],
+            "en": [
+                "functionality",
+                "ease of use"
+            ]
+        },
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2022-03-28 10:38:31",
+        "purchase_date": "2022-03-24 09:40:20"
+    },
+    {
+        "opinion_id": "14663961",
+        "author": "F...f",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Gut und sehr leise.",
+            "en": "Gut und sehr leise."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 2,
+        "publish_date": "2021-06-30 12:02:22",
+        "purchase_date": "2021-06-28 16:56:26"
+    }
+]
